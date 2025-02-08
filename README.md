@@ -26,7 +26,7 @@ List any software or tools required to run your project. For example:
    git clone https://github.com/Jastreas/Python_Small_Programs_Collection.git
    ```
 2. Open the folder:
-    cd https: Python_Small_Programs_Collection
+    cd Python_Small_Programs_Collection
 3. Run any exercise you want:
     py [exercise_number].py
     **Example:**
